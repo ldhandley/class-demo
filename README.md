@@ -1,3 +1,3 @@
 # class-demo
 
-INformationnnnn
+A demonstration of colors & padding
